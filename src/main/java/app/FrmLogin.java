@@ -7,9 +7,9 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import model.Categoria;
-import model.Producto;
-import model.Usuario;
+import Model.Categoria;
+import Model.Producto;
+import Model.Usuario;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
